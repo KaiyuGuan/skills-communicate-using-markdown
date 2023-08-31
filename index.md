@@ -20,3 +20,12 @@ print("Hello World")
 ```
 
 added code block as instructed
+
+# Part 4
+list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+include a list as instructed
