@@ -11,3 +11,12 @@ image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 added image as instructed 
+
+# Part 3
+code
+
+``` python
+print("Hello World")
+```
+
+added code block as instructed
